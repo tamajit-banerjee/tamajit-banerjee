@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, Tamajit here 👋
 
 
 - 👨🏻‍🎓 I’m currently pursuing my Bachelor's Degree in Computer Science from IIT Delhi.
