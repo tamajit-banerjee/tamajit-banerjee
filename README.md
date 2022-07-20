@@ -7,7 +7,3 @@
 - ♾️ I love solving Complex Mathematics Problems...
 - ♔ I like to play Chess...
 - 📧 Reach me at [tamajitbuba3@gmail.com](mailto:tamajitbuba3@gmail.com)<br>
-
-
-![Tamajit's github stats](https://github-readme-stats.vercel.app/api?username=tamajit-banerjee&count_private=true&show_icons=true&theme=radical)
-
